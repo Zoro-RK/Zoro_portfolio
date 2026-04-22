@@ -1013,8 +1013,8 @@ function AboutSection() {
             <p className="text-base md:text-lg text-ide-muted leading-relaxed mt-2">
               Hey, I’m Ruuban, a passionate AI/ML enthusiast and full-stack developer eager to
               apply machine learning skills to real-world problems. Combines
-              creaAvity with technical experAse to build intuiAve, user-friendly
-              applicaAons and visually engaging digital experiences.
+              creativity with technical expertise to build intuitive, user-friendly
+              applications and visually engaging digital experiences.
             </p>
           </ScrollReveal>
 
