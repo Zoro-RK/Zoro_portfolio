@@ -664,7 +664,7 @@ function LoadingScreen() {
   const [exiting, setExiting] = useState(false);
 
   const bootLines = [
-    "> DEVIDE_V1 :: INITIALIZING...",
+    "> PORTFO_V1 :: INITIALIZING...",
     "> LOADING_KERNEL :: [████████░░] 80%",
     "> LOADING_KERNEL :: [██████████] 100%",
     "> MOUNTING_ENV :: ✓ typescript.runtime",
@@ -692,7 +692,7 @@ function LoadingScreen() {
       {/* Top branding */}
       <div className="absolute top-6 left-6 md:top-10 md:left-10 flex items-center gap-3">
         <Terminal className="w-5 h-5 text-ide-accent" />
-        <span className="text-xs md:text-sm font-bold tracking-[0.3em] uppercase text-ide-accent">DEVIDE_V1</span>
+        <span className="text-xs md:text-sm font-bold tracking-[0.3em] uppercase text-ide-accent">PORTFOLIO_V1</span>
       </div>
 
       {/* Boot terminal lines — centered */}
